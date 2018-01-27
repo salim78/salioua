@@ -9,8 +9,8 @@ script:
 deploy:
   provider: heroku
   api_key:
-    secure: 6302276d-3cdb-4696-a0bf-dcb8c59a3adb
-  app: mysterious-tor-70608  
+    secure: 21386149-88a1-47a2-b52b-0bf74ddd321a
+  app: cryptic-sea-87490 
 
 branches:
   only:
