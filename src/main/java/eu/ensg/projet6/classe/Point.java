@@ -33,7 +33,8 @@ public class Point {
 	public void setX(double x) {
 		this.x = x;
 	}
-
+	
+	// Comment about the method :)
 	public double getY() {
 		return y;
 	}
