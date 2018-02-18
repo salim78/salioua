@@ -131,7 +131,7 @@ public class BoundingBoxTest extends TestCase {
 		for (int i = 0; i < resCalcule2.size() - 1; i++) {
 			assertEquals(resCalcule2.get(i).getX(), bbxPoint2.get(i).getX());
 		}
-
+		assertFalse(true);
 		assertFalse(resCalcule2.size() < 3);
 
 	}
